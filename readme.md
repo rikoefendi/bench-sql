@@ -1,2 +1,4 @@
-![alt text](https://github.com/rikoefendi/bench-sql/blob/main/img/pgx.jpg?raw=true)
-![alt text](https://github.com/rikoefendi/bench-sql/blob/main/img/stdlib.jpg?raw=true)
+# PGX
+![alt text](https://raw.githubusercontent.com/rikoefendi/bench-sql/main/img/pgx.png)
+# StdLib
+![alt text](https://raw.githubusercontent.com/rikoefendi/bench-sql/main/img/stdlib.png)
