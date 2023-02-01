@@ -1,0 +1,7 @@
+goos: darwin
+goarch: amd64
+pkg: bench/stdlib
+cpu: Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz
+BenchmarkStdLib-4   	1000000000	         0.01049 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	bench/stdlib	0.136s
